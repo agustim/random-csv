@@ -1,0 +1,6 @@
+{
+    "nom" : "name",
+    "cognom" : "lastname",
+    "telefon" : "phone",
+    "email" : "email"
+}
